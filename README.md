@@ -1,3 +1,10 @@
+# ⚠️ Proyecto Movido ⚠️
+Este repositorio ha sido migrado a [midusi/PlateUNLP](https://github.com/midusi/PlateUNLP).  
+No se aceptarán más cambios aquí.
+
+---
+---
+
 # PlateUNLP
 
 _PlateUNLP_ es un software especializado en la digitalización y procesamiento de información espectroscópica en placas de vidrio.
